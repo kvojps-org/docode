@@ -1,0 +1,3 @@
+python-decouple # Settings params handler
+requests # HTTP requests
+types-requests # Typing requests

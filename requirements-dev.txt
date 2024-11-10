@@ -1,0 +1,5 @@
+boto3 # Não é necessário para build na AWS, mas é necessário para rodar o projeto localmente
+boto3-stubs
+cfn-lint # Linter para CloudFormation
+pip-tools # Ferramenta para gerenciar dependências
+pytest # Framework de testes
